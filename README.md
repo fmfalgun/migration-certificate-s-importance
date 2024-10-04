@@ -7,19 +7,19 @@ This report highlights the growing concern regarding the outdated practice of re
 
 1. **Administrative Delays**: 
    - **50%** of students experience admission delays due to bureaucratic processes, including migration certificates. 
-   - Source: [Education Data Initiative](https://edtechmagazine.com/higher/article/2022/08/3-ways-colleges-are-reducing-bureaucracy-admissions-process).
+   - Source: Education Data Initiative
 
 2. **Resource Allocation**: 
    - Institutions allocate approximately **20%** of their administrative budgets to processing student records, including migration certificates. 
-   - Source: [NASPA](https://www.naspa.org/rpi/research-facts).
+   - Source: NASPA
 
 3. **Environmental Impact**: 
    - Traditional paper-based documentation generates up to **60%** more waste compared to digital solutions. 
-   - Source: [Institute for Sustainable Education](https://www.sustainableeducation.edu/research).
+   - Source: Institute for Sustainable Education
 
 4. **Student Impact**: 
    - **65%** of students find administrative processes cumbersome and time-consuming, impacting their satisfaction with educational institutions. 
-   - Source: [Pew Research Center](https://www.pewresearch.org/higher-education/2021/07/20/college-students-and-their-experiences-with-bureaucracy/).
+   - Source: Pew Research Center
 
 ## Reasons for Discontinuing Migration Certificates
 
